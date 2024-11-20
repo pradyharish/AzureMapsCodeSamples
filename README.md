@@ -2,6 +2,8 @@
 page_type: sample
 description: A collection of over a hundred code samples for the Azure Maps Web SDK.
 languages:
+- C#
+- .NET
 - javascript
 products:
 - azure
